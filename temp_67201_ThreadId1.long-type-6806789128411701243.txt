@@ -1,0 +1,1 @@
+Map<std::slice::Iter<'_, &str>, for<'a, 'b> fn(&'a [&'b str]) -> Vec<String> {capitalize_words_vector}>
